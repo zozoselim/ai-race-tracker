@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Wall
   - AI
+  - Road
   layers:
   - Default
   - TransparentFX
