@@ -62,6 +62,8 @@
     <Compile Include="Assets\Scripts\CountdownManager.cs" />
     <Compile Include="Assets\Scripts\CarAgent.cs" />
     <Compile Include="Assets\Scripts\CarController.cs" />
+    <Compile Include="Assets\Scripts\CarAgentBC.cs" />
+    <Compile Include="Assets\Scripts\FollowCamera.cs" />
     <Compile Include="Assets\Scripts\AIFollowController.cs" />
   </ItemGroup>
   <ItemGroup>
