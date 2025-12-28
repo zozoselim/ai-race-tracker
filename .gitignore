@@ -9,3 +9,10 @@ __pycache__/
 # Unity / ML-Agents generated
 unity/AI_Race_Tracker/results/
 unity/AI_Race_Tracker/config/*.pdf
+# --- Unity generated (do NOT commit) ---
+**/[Ll]ibrary/
+**/[Tt]emp/
+**/[Ll]ogs/
+**/[Oo]bj/
+**/.vs/
+**/[Uu]ser[Ss]ettings/
