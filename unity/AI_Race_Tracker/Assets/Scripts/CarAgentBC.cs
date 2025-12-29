@@ -6,9 +6,9 @@ using Unity.MLAgents.Sensors;
 [RequireComponent(typeof(Rigidbody))]
 public class CarAgentBC : Agent
 {
-    public float motorForce = 12f;
+    public float motorForce = 0.2
     public float steerStrength = 45f;
-    public float maxSpeed = 18f;
+    public float maxSpeed = 1f
 
     private Rigidbody rb;
     private float steer;

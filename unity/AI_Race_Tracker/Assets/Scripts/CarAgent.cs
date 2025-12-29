@@ -7,9 +7,9 @@ using Unity.MLAgents.Sensors;
 public class CarAgent : Agent
 {
     public Transform target;      // PlayerCar
-    public float acceleration = 12f;
+    public float acceleration = 30;
     public float steering = 50f;
-    public float maxSpeed = 18f;
+    public float maxSpeed = 40;
 
     private Rigidbody rb;
     private Vector3 startPos;
