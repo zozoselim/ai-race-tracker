@@ -4,9 +4,9 @@ public class AIFollowController : MonoBehaviour
 {
     public Transform target;
     public float followDistance = 5f;
-    public float acceleration = 12f;
+    public float acceleration = 30;
     public float steering = 50f;
-    public float maxSpeed = 18f;
+    public float maxSpeed = 40;
 
     [HideInInspector] public bool canDrive = false;
 
